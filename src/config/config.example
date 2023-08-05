@@ -1,0 +1,20 @@
+{
+        "production":{
+                "url":"postgres://<username>:<password>@<host>:5432/<database>",
+                "username":"",
+                "password":"",
+                "database":"",
+                "host":"",
+                "port":5432,
+                "dialect":"postgres"
+        },
+        "development":{
+                "url":"postgres://<username>:<password>@<host>:5432/<database>",
+                "username":"",
+                "password":"",
+                "database":"",
+                "host":"",
+                "port":5432,
+                "dialect":"postgres"
+        }
+}

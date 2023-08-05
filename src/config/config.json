@@ -1,0 +1,20 @@
+{
+ "production": {
+   "url": "postgres://root:12345678@localhost:5432/test_profile",
+   "username": "root",
+   "password": "12345678",
+   "database": "test_profile",
+   "host": "",
+   "port": 5432,
+   "dialect": "postgres"
+ },
+ "development": {
+   "url": "postgres://root:12345678@localhost:5432/test_profile",
+   "username": "root",
+   "password": "12345678",
+   "database": "test_profile",
+   "host": "",
+   "port": 5432,
+   "dialect": "postgres"
+ }
+}
